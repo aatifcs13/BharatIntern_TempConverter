@@ -1,5 +1,7 @@
 # BharatIntern_TempConverter
 
+A temperature converter (Tempverter) is a tool used to convert temperatures, to and from Celsius, Fahrenheit, and Kelvin.
+
 # Software_Requirements : 
 IDE- Brackets
 
